@@ -1,0 +1,33 @@
+<table style="width: 450px; height: 285px; border-color: red; margin-left: auto; margin-right: auto;" cellspacing="2" cellpadding="4">
+<tbody>
+<tr style="height: 23px; text-align: center;">
+<td style="width: 449px; height: 23px; background-color: red;" colspan="2">Go to Select Group</td>
+</tr>
+<tr style="height: 23px; text-align: right;">
+<td style="width: 177px; height: 91px; vertical-align: top;" rowspan="4">User:</td>
+<td style="width: 272px; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 272px; height: 22px;">CreateNewUser</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 272px; height: 23px;">Modify User</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 272px; height: 23px;">Delete User</td>
+</tr>
+<tr style="height: 23px; text-align: right;">
+<td style="width: 177px; height: 92px; vertical-align: top;" rowspan="4">User2:</td>
+<td style="width: 272px; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 272px; height: 23px;">Create User2</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 272px; height: 23px;">Delete User2</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 272px; height: 23px;">Modify User</td>
+</tr>
+</tbody>
+</table>
